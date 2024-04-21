@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![linkvertex.io](https://i.ibb.co/mzT7yLx/Screenshot-2024-03-09-211351.png)
+![linkvertex.io](https://i.ibb.co/4PZnj0Y/Screenshot-2024-03-09-211316.png)
+![linkvertex.io](https://i.ibb.co/X3L9bBL/Screenshot-2024-03-09-211328.png)
+![linkvertex.io](https://i.ibb.co/JmRJpr0/Screenshot-2024-03-09-211342.png)
 
-## Getting Started
+# Welcome to My Linkvertex.io website 
 
-First, run the development server:
+I'm a developer and creator sharing my work and updates on various platforms. Below you'll find the links to all my social profiles and projects. Feel free to connect with me!
+
+## 📱 Social Profiles
+
+- **Instagram**: [the-coder-0](https://instagram.com/the-coder-0)
+- **Twitter**: [the-coder-0](https://twitter.com/the-coder-0)
+- **Mastodon**: [the-coder-0](https://mastodon.social/@the-coder-0)
+- **YouTube**: [My Channel](https://youtube.com/channel/UC8D9cwxX9Utv7lnLSNCmIVQ)
+- **TikTok**: [@the-coder-0](https://tiktok.com/@the-coder-0)
+
+## 💼 Professional Links
+
+Feel free to check out my professional portfolio and work-related profiles:
+
+- **LinkedIn**: [Your LinkedIn](#) *(Replace with your actual LinkedIn link)*
+- **GitHub**: [Your GitHub](#) *(Replace with your actual GitHub profile link)*
+
+## 🎨 Projects
+
+Here are some of my projects that I've worked on. Take a look at what I've built:
+
+- **Project 1**: [View Project](https://wussh.szm.dev/hacker/project1)
+- **Project 2**: [View Project](https://wussh.szm.dev/hacker/project2)
+- **Project 3**: [View Project](https://wussh.szm.dev/hacker/project3)
+
+## About
+
+I am passionate about technology and innovation. Creating and learning new things is what drives me. This page serves as a central point to connect with me and explore my work.
+
+---
+
+# Linkvertex.io
+
+Describe your project briefly here. Explain that it's built with Next.js 14, TypeScript, Firebase, MongoDB, and Firebase Auth.
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Node.js 14.x or later [Next.js 14](https://nextjs.org/docs/getting-started/installation)
+- A Firebase account and project [Firebase](https://console.firebase.google.com/)
+- MongoDB database access [MongoDb Atlas](https://account.mongodb.com/account/login?n=https%3A%2F%2Fcloud.mongodb.com%2Fv2%2F63e0fbfa1122620700906904&nextHash=%23overview&signedOut=true)
+
+## Installation
+
+To install the dependencies, run:
 
 ```bash
-npm run dev
+npm install
 # or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+yarn install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+© 2024 - [www.a-bd.me](https://www.a-bd.me)
